@@ -1,8 +1,7 @@
 Capstone-2
 ==============================
 
-Analyzing the bank marketing data
-
+Telemarketing Campaign Predictive Analytics
 Project Organization
 ------------
 
