@@ -3,6 +3,12 @@ Capstone-2
 
 **Telemarketing Campaign Predictive Analytics**
 
+
+This is a classification problem of an imbalance dataset aiming to predict the customers who are likely to subscribe to the term deposit service. Oversampling strategy, using SMOTE, is applied to the data to cope with data imbalance. 
+
+The Bayesian Hyperparameter Optimization technique is used to tune several models. The winning ensemble model, (LGBM), achieved 0.88 accuracy and (ROC AUC = 0.81). These results are slightly higher than the one published in academia (2014).
+
+
 Project Organization
 ------------
 
