@@ -1,7 +1,8 @@
 Capstone-2
 ==============================
 
-Telemarketing Campaign Predictive Analytics
+**Telemarketing Campaign Predictive Analytics**
+
 Project Organization
 ------------
 
